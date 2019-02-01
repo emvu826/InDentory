@@ -1,5 +1,5 @@
 # InDentory
-InDentory is a program for dentists to organize their dental inventory and oversee expenses.
+InDentory is a program for dentists to organize their inventory expenses. 
 
 Task 1: create the front page 
   1) Inventory button
